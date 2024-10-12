@@ -12,6 +12,7 @@ Determine how age affects insurance costs using linear regression.
 - Pandas
 - Matplotlib
 - Scikit-learn
+- NumPy
 
 ## Instructions
 1. Clone the repository
